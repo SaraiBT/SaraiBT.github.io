@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://SaraiBT.github.io//sitemap.xml
