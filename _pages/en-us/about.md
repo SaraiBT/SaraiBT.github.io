@@ -20,8 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+El hada del invierno
+Aquel otoño no era un otoño normal. Las cosas no ocurrían como otros años, en los que las hojas de los árboles se volvían amarillas, naranjas y rojas y adornaban las copas durante semanas antes de marchitarse y cubrir el suelo con un manto ocre y crujiente. No. Aquel otoño las hojas morían de repente y dejaban a los árboles desnudos en cuestión de días. Estaba claro que algo muy extraño estaba pasando en el bosque.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/multi-language-al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+El Rey del Bosque, un ciervo rojo cuya gran cornamenta daba una pista de su avanzada edad, convocó a los animales para informarles del problema e intentar, entre todos, encontrar una solución para recuperar el otoño. 
