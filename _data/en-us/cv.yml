@@ -1,11 +1,11 @@
 - title: General Information
   type: map
   contents:
-    - name: Sarai Toro
+    - name: Name
       value: Sarai Toro
-    - name: 18th April 2006
+    - name: Label
       value: 18th april 2006
-    - name: 
+    - name: idioma
       value: Spanish
 
 - title: Education
